@@ -62,3 +62,5 @@ Gameplay Features:
 * Kenny
 * Leohpaz
 * Imphenzia
+
+P.S. since the size of the video demonstration is too big, I couldn't upload to the readme file, so I sent you email with link which leads to my drive.
