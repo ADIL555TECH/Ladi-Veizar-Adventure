@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66fba0017c3012f4ab9b8405800bb0d6, type: 3}
+  m_Name: Potion
+  m_EditorClassIdentifier: 
+  ItemName: Potion
+  itemPrefab: {fileID: 163617556293284183, guid: 9351e0eb1bce2e546b245e0ed2a18554,
+    type: 3}
+  pickAble: {fileID: 7224537509089881024, guid: 09e47f451d27f3a4288777d6e0599129,
+    type: 3}
+  acquireSound: {fileID: 8300000, guid: 65b042682b165df44afc673c0c17125c, type: 3}
